@@ -8,3 +8,4 @@
 [![](https://visitcount.itsvg.in/api?id=sdam1n&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @sdam1n's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sdam1n)](https://holopin.io/@sdam1n)
