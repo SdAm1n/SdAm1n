@@ -1,5 +1,5 @@
 ### Hey 👋, I am Sadikul Amin Sadman
-#### Currently an undergraduate student in Computer Science and Engineering & an Enthusiast
+#### Currently an undergraduate student studying Computer Science and Engineering
 
 Skills: C / C++ / PYTHON / HTML / CSS / JAVASCRIPT / SHELL SCRIPTING / LINUX
 
