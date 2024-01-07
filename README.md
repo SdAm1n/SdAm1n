@@ -2,7 +2,7 @@
 #### Currently an undergraduate student studying Computer Science and Engineering
 
 #### SKILLS:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,python,php,bash,linux,latex,figma,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,bootstrap,js,python,php,bash,linux,latex,figma,sqlite)](https://skillicons.dev)
 
 - 🤔 I’m interested in Cyber Security, Cryptography, Web Development, Machine Learning, etc. 
 
