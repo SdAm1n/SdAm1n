@@ -76,8 +76,6 @@ My interests include developing AI-driven applications, experimenting with moder
 
 ## GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SdAm1n&theme=github_dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SdAm1n&theme=github-dark-blue)
 
 ---
